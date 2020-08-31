@@ -3,6 +3,7 @@
   "repository": {
     "url": "https://github.com/a-fortunato/complex-rn-components"
   },
+  "license": "MIT",
   "scripts": {
     "start": "expo start -c",
     "android": "expo start --android",
