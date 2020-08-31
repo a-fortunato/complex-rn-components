@@ -1,5 +1,8 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "repository": {
+    "url": "https://github.com/a-fortunato/complex-rn-components"
+  },
   "scripts": {
     "start": "expo start -c",
     "android": "expo start --android",

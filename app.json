@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "complex-rn-components",
+    "description": "An app with examples of complex components in React Native.\n\nCheck code at https://github.com/a-fortunato/complex-rn-components.",
     "slug": "complex-rn-components",
     "version": "1.0.0",
     "orientation": "portrait",
